@@ -1,6 +1,6 @@
 # Akshay S Salesforce Portfolio
 
-Portfolio adapted from Abinav S’s editorial portfolio design, with Akshay’s Salesforce experience and contact information.
+Portfolio adapted from Abinav S’s editorial portfolio design, with Akshay’s Salesforce experience and contact information. The resume PDF is private; resume buttons open an email request instead.
 
 ## Local preview
 
